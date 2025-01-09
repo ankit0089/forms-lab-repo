@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p139869-e1425856.adobeaemcloud.com/bin/franklin.delivery/ankit0089/forms-lab-repo/main
+    url: https://author-p51328-e442308.adobeaemcloud.com/bin/franklin.delivery/ankit0089/forms-lab-repo/main
     type: "markup"
     suffix: ".html"
